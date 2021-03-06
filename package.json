@@ -1,6 +1,6 @@
 {
   "name": "calculating-backwards-quiz",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Simple calculation quiz",
   "main": "index.js",
   "scripts": {
