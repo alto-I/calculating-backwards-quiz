@@ -144,4 +144,4 @@ async function main () {
   console.log(`あなたのスコアは${calcscore(numberOfProblem, correct, time)}です！`)
 }
 
-main()
+exports.main = main
