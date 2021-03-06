@@ -20,6 +20,7 @@
   },
   "homepage": "https://github.com/alto-I/calculating-backwards-quiz#readme",
   "dependencies": {
+    "calculating-backwards-quiz": "^1.0.1",
     "enquirer": "^2.3.6"
   }
 }
