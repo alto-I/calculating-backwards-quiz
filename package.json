@@ -1,0 +1,25 @@
+{
+  "name": "calculating-backwards-quiz",
+  "version": "1.0.0",
+  "description": "Simple calculation quiz",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alto-I/calculating-backwards-quiz.git"
+  },
+  "keywords": [
+    "quiz"
+  ],
+  "author": "alto_I",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alto-I/calculating-backwards-quiz/issues"
+  },
+  "homepage": "https://github.com/alto-I/calculating-backwards-quiz#readme",
+  "dependencies": {
+    "enquirer": "^2.3.6"
+  }
+}
